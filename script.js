@@ -163,5 +163,6 @@ document.querySelector(".add_button").addEventListener("click", () => {
       document.querySelector('.noitem').classList.add('hidden');
     }
     close1(); 
+
   }
 });
